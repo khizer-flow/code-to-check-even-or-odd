@@ -7,7 +7,7 @@ int main()
 	cout<<"Enter the number :"<<endl;
 	cin>>num1;
 	cout<<num1%2<<endl;
-	if(num1%2==0)	//"%" is called modular 
+	if(num1%2==0)	//"%" is called Modulo Operator
 	{
 		cout<<"The number you entered is even "<<endl;
 	}
